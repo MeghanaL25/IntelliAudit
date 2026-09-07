@@ -205,7 +205,6 @@ export default function Dashboard() {
           </div>
         </div>
       </div>
-
       {/* Proceed to Next Phase CTA */}
       <div className="mt-6 p-5 bg-gradient-to-r from-blue-600 to-indigo-600 dark:from-[#0f2d6e] dark:to-[#1a1e5e] rounded-2xl shadow-lg flex flex-col sm:flex-row items-center justify-between gap-4">
         <div>
@@ -222,3 +221,4 @@ export default function Dashboard() {
     </div>
   );
 }
+
